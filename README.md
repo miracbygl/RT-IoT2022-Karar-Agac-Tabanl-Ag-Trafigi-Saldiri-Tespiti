@@ -88,8 +88,7 @@ Nesnelerin İnterneti (IoT) ağ trafiğindeki saldırıların tespiti amacıyla 
 
 | Dosya | Açıklama |
 |-------|----------|
-| `RT_IoT2022_Siniflandirma_Analizi_DUZELTILMIS.ipynb` | Tüm analiz adımlarını içeren Jupyter Notebook |
-| `RT_IoT2022_Rapor_GUNCELLENDI.docx` | Güncel proje raporu (son sürüm) |
+| `RT_IoT2022_Siniflandirma_Analizi.ipynb` | Tüm analiz adımlarını içeren Jupyter Notebook |
 | `RT_IoT2022_Rapor.docx` | Proje raporu (orijinal sürüm) |
 
 ---
